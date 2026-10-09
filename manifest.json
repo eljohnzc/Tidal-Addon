@@ -1,0 +1,12 @@
+{
+  "id": "dev eljohnzc.music",
+  "name": "Eljohnzc",
+  "version": "1.0.0",
+  "description": "Streams music from my service",
+  "icon": "https://your-cdn.com/addon-icon.png",
+  "resources": ["search", "stream"],
+  "types": ["track", "album", "artist"],
+  "contentType": "music",
+  "allowDownloads": true,
+  "checkValidLossless": false
+}
